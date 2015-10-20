@@ -1,0 +1,2 @@
+Acetyl-CoA:: Acetyl + Coenzyme A, käytetään monissa reaktioissa, erityisesti Krebsin syklissä (hiilen siirto asetyylisivuketjussa)
+Välttämättömät aminohapot:: Aminohapot, joiden hiiliketjuja ei osata tuottaa => saatava ravinnosta
