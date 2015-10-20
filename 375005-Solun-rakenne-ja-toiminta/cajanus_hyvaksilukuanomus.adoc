@@ -1,0 +1,44 @@
+= Hyväksilukuanomus
+Sakari Cajanus <sakari.cajanus@helsinki.fi>
+2015-09-09
+:toc:
+:toc-title: Sisällysluettelo
+:table-caption: Taulukko
+
+
+== Opintojaksokuvaukset
+
+.S-0.1104 Solubiologian perusteet
+|===
+|Laajuus|6   op
+|Osaamistavoitteet|Tarkoitus on tarjota teekkareille poikkitieteellistä opetusta ja luoda yhteistä termistöä biotieteiden ja tekniikan leikkausalueella toimiville insinööreille. Toimittaessa tieteidenvälisissä tehtävissä yhteinen kieli ja toimintakulttuuri ovat oleellisen tärkeitä, ja eri alojen asiantuntijoiden saattaminen yhteen toimii osaltaan innovaatioiden kehittymistä stimuloivana tekijänä. Opetuksen tarkoituksena on antaa laaja-alainen näkemys niistä perusteista, joita tarvitaan toimittaessa biologisen informaation hankinnassa ja käsittelyssä tarvittavien teknologioiden tutkijoina ja kehittäjinä, ja se luo pohjaa syventää osaamista biologisen kemian ja tekniikan alakohtaisiin opintoihin. Kehittyminen asiantuntijaksi poikkitieteellisellä ja innovaatiokeskeisellä alalla, joka yhdistää "kovat" insinööritieteet biotieteisiin, vaatii perustaksi riittävän syvällisen ymmärryksen luonnontieteissä ja sovellusalan tieteissä. Tämän kurssin tavoite on osaltaan luoda hyvä perusta näille opinnoille keskittymällä solubiologian perusteisiin.
+|Sisältö|Kurssi antaa tietoa solujen rakenteesta ja toiminnasta, jotka tunnetaan jo molekyylien, jopa atomien tasolla. Solun biologiaa kuvaillaan pääosin biokemian ja molekyylibiologian termein. Solun jakautuminen ja solujen järjestäytyminen kudokseksi sekä kehittyminen elimistöksi ja päätyminen lopulta solukuolemaan ovat kurssin keskeistä sisältöä. Lisäksi tutustutaan tärkeimpiin solubiologian tutkimusmenetelmiin.
+|===
+
+https://noppa.aalto.fi/noppa/kurssi/s-0.1104/esite[Linkki lähteeseen.]
+
+== Selvitys opintojen vastaavuudesta
+
+Ydinainesanalyysi uuden kurssin osalta ei ollut vielä saatavilla digitaalisessa kurssikirjastossa, joten tein vertailun weboodissa saatavilla olevan kuvauksen ja luentojen perusteella.
+
+Osaamistavoitteiden ja sisältöjen osalta kurssi S-0.1104 Solubiologian perusteet sopii korvaamaan kurssia 375005 Solun rakenne ja toiminta solun organellien ja makromolekyylien osalta. Myös solun metabolia on kursseille yhteistä sisältöä. Molempien kurssien oppikirjana on soveltuvin osin Albertsin (et al.) The Cell, minkä lisäksi luennoitsijat ovat käsittääkseni osin samoja (Aallon kurssilla esimerkiksi Tuomas Haltia, Reijo Käkelä, Tiina Immonen). Uskon, että näiden asioiden osalta kurssit vastaavat toisiaan riittävän hyvin.
+
+6 opintopisteen kurssina solubiologian perusteet sisälsi myös tietoa perimästä ja solunjakautumisesta, jotka eivät näytä olevan Solun rakenne ja toiminta -kurssin sisällössä: Näin laajuudeltaan korvaavuus vastannee 4 opintopistettä.
+
+Korvaamatta jää erityisesti aminohappojen aineenvaihdunnalliset reitit, ja luentojen teemoista:
+
+* Sokerit lääketieteessä,
+* Entsyymit ja hemoglobiini
+* Lipoproteiinit ja ateroskleroosi
+* Amino acid metabolism
+* Clinical metabolomics
+* Lisälehdet rasvakeskusteluun
+* Karppaus
+* Insuliiniresistenssi
+* Syömishäiriöt ja niiden metabolia
+
+Toinen aiemmin mainitsemani kurssi sopii korvaamaan paremmin opintojaksoa Perimä ja kehitys, joten anon hyväksilukua vain yllä mainitsemani kurssin osalta.
+
+== Opintorekisteriote
+
+Liitteenä, dokumentin lopussa.
