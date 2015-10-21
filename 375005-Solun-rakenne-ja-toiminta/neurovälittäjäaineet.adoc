@@ -1,0 +1,53 @@
+= Neurovälittäjäaineet
+
+== Kriteerit
+* Synteesi neuronissa (de novo)
+* Varastointi hermon päässä ennen vapautusta, esimerkiksi vesikkeleissä
+* Vapautus stimuluksen (e.g. aktiopotentiaali) myötä
+* Sitoutuu ja tunnistetaan postsynaptisessa hermosolussa
+* On olemassa mekanismit neurovälittäjäaineen aktiivisuuden lopettamiseen
+
+-> Tämän lisäksi esimerkiksi NO~2~, adenosiini, neurosteroidit ja polyamidit ovat käytössä hermosolujen välisessä viestinnässä, mutta ne eivät täytä kaikkia em. vaatimuksia
+
+== Luokittelu
+
+.Luokittelu kemiallisen rakenteen mukaan
+|===
+|Ryhmä|Esimerkkejä
+
+|Amiinit | Asetyylikoliini (ACh), noradrenaliini, adrenaliini, dopamiini, 5-HT
+|Aminohapot | Glutamaatti, GABA
+|Puriinit | ATP, adenosiini
+|Kaasut | NO~2~
+|Peptidit | Endorfiinit, takykiinit, ...
+
+|===
+
+== Neurotransmissio
+
+Neurotransmissio eli synaptinen transmissio: presynaptinen neuroni vapauttaa välittäjäaineita, jotka sitoutuvat postsynaptisen neuronin reseptoreihin.
+Aktiopotentiaalin saavuttaessa aksonin pään, jännite-ero avaa kalsiumkanavat. Sisään virtaava kalsium vapauttaa mikrotubuluksiin sitoutuneet vesikkelit, jotka siirtyvät solukalvolle ja sitoutuvat siellä proteiinikomplekseihin. Vesikkelit vapauttavat välittäjäaineet synaptiseen rakoon.
+
+Hermosolun lepojännite:: Solukalvon yli oleva potentiaaliero, jossa solun sisäpuolella on pieni negatiivinen varaus. Pidetään yllä K^\+^-ionien suuremmalla konsentraatiolla solun ulkopuolella, kun vastaavasti sisäpuolella Na^+^-ioneja on enemmän.
+Toimintapotentiaali:: Ionikanavien aukeaminen ja Na^\+^-ionien virtaamisen solun sisään saa aikaan depolarisoitumisen eli solun jännitteen muuttumisen positiiviseksi, jolloin signaali alkaa edetä hermosolussa. Pian natrium-kanavat sulkeutuvat ja K^+^-ionikanavat aukenevat, jolloin lepojännite palaa soluun.
+Eksitatoriset ja inhiboivat välittäjäaineet:: Neurovälittäjäaineet voivat saada aikaan _depolarisaation_ (eksitatoriset välittäjäaineet) tai _hyperpolarisaation_ (inhiboivat välittäjäaineet). Jälkimmäisessä tapauksessa toimintapotentiaalin synty (riittävän positiivisen jännite-eron aikaansaanti) vaikeutuu.
+
+=== Reseptorit
+
+Ionotrooppiset reseptorit:: Ionikanavia, joihin sitoutuva välittäjäaine muuttaa niiden muotoa päästäen ionit kanavan läpi. Kalvopotentiaalin muutos riippuu ionikanavan läpi päästämästä ionista. Esimerkiksi K^\+^/Ca^+^-ionien liikkuminen nikotiinisessa ACh-reseptorissa depolarisoi solukalvoa, GABA~A~-reseptorin päästämä Cl^-^ hyperpolarisoi.
+Metabotrooppiset reseptorit:: Reseptorit, jotka liittyvät toisiolähettikaskadeihin ja toimivat siten hitaammin kuin ionotrooppiset reseptorit. Usein (kirjassa "All known") metabotrooppiset reseptorit liittyvät (are coupled with) G-proteiineihin.
+
+=== Regulaatio
+
+Neurotransmission jälkeen välittäjäaineet pitää poistaa synaptisesta tilasta, esimerkiksi diffuusiolla tai hajottamalla (e.g. asetyylikoliiniesteraasi pilkkoo ACh:ta). Välittäjäaineita myös otetaan takaisin presynaptiseen neuroniin (aktiivisesti?).
+
+Välittäjäaineiden toimintaa voidaan muuttaa
+* Synteesinopeutta muuttamalla
+* Muuttamalla synapsiin tapahtuvan vapauttamisen nopeutta
+* Blokkaamalla takaisinotto presynaptiseen neuroniin
+* Blokkaamalla välittäjäaineen hajotus
+
+
+== Välittäjäaineet ja niiden luokittelu
+
+WARNING: Work in progress!

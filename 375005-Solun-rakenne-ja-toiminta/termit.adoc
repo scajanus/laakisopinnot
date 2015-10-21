@@ -16,3 +16,4 @@ Ureasykli:: Ammoniakin poisto elimistöstä (pääasiassa maksassa, myös munuai
 Välttämättömät aminohapot:: Aminohapot, joiden hiiliketjuja ei osata tuottaa => saatava ravinnosta
 α-ketohappo (α-ketokarboksyylihappo):: Happo, josta voidaan valmistaa aminohappo transaminaatiolla. Ketoryhmä karboksyylihapporyhmän vieressä (vrt. β-ketohappo => ketoryhmä β-hiilessä!)
 Glukagoni:: Peptidihormoni, joka vapauttaa maksan glykogeenivarastoista glukoosia vereen. Ei vaikuta munuaisten glukoosin vapautukseen!
+Ligandi:: Solun ulkoinen aine, joka sitoutuu reseptoriinsa rakenteensa perusteella.
