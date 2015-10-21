@@ -60,6 +60,10 @@ Neurotransmission jälkeen välittäjäaineet pitää poistaa synaptisesta tilas
 ** Merkittävin inhibitorinen välittäjäaine aivoissa
 ** GABA~A~-reseptori koostuu 5 alayksiköstä => paljon kohteita lääkkeille, esim. bentsot, barbituraatit
 * Glysiini
+** Selkäytimen inhibitorinen välittäjäaine. Glysiinireseptorin blokkaus stryktiinillä: hermoimpulssit liikkuvat ilman negatiivista kontrollia => konvulsiot, rigidity
 * Katekoliamiinit (noradrenaliini, adrenaliini, dopamiini)
+** Johdetaan aminohappo tyrosiinista
+** Katekoliamiinia vapauttavissa hermoissa välittäjäainetta vapautuu pitkin aksonia (axonal varicosities) soluvälitilaan, jossa se diffusoituu kunnes kohtaa reseptorin => vaikutus suurelle kudosalueelle eikä tiettyyn neuroniin
+** *TODO* lisää detaljit noradrenaliinista, adrenaliinista, dopamiinista, serotoniinista
 * Asetyylikoliini
 * NO~2~
