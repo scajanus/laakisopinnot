@@ -57,6 +57,8 @@ Neurotransmission jälkeen välittäjäaineet pitää poistaa synaptisesta tilas
 ** Sekä ionotrooppisia (esim. NMDA) että metabotrooppisia reseptoreita
 ** Suuren affiniteetin kuljetus sekä gliasoluihin (joissa muunto glutamiiniksi, diffuusio hermosoluun, jonka mitokondrioissa hajotus glutaminaasilla glutamaatiksi) sekä suoraan hermosoluihin
 * GABA (ionotrooppinen GABA~A~ ja metabotrooppinen GABA~B~)
+** Merkittävin inhibitorinen välittäjäaine aivoissa
+** GABA~A~-reseptori koostuu 5 alayksiköstä => paljon kohteita lääkkeille, esim. bentsot, barbituraatit
 * Glysiini
 * Katekoliamiinit (noradrenaliini, adrenaliini, dopamiini)
 * Asetyylikoliini
