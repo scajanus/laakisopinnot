@@ -66,4 +66,9 @@ Neurotransmission jälkeen välittäjäaineet pitää poistaa synaptisesta tilas
 ** Katekoliamiinia vapauttavissa hermoissa välittäjäainetta vapautuu pitkin aksonia (axonal varicosities) soluvälitilaan, jossa se diffusoituu kunnes kohtaa reseptorin => vaikutus suurelle kudosalueelle eikä tiettyyn neuroniin
 ** *TODO* lisää detaljit noradrenaliinista, adrenaliinista, dopamiinista, serotoniinista
 * Asetyylikoliini
+** Hermo-lihasliitoksen välittäjäaine
+** Parasympaattisen hermoston välittäjäaine, sympaattisen hermoston sisäisen viestinnän (?) välittäjäaine
+** Synteesi koliinista (koliiniasetyylitransferaasilla), hajotus synaptisessa raossa (asetyylikoliiniesteraasilla) + lopun takaisinotto
+** Nikotiiniset reseptorit ionotrooppisia, muskariiniset reseptorit metabotrooppisia
 * NO~2~
+* Muut pienet molekyylit
