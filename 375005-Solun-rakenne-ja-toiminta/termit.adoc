@@ -1,9 +1,17 @@
 
-Acetyl-CoA:: Acetyl + Coenzyme A, käytetään monissa reaktioissa, erityisesti Krebsin syklissä (hiilen siirto asetyylisivuketjussa) image:http://2012books.lardbucket.org/books/introduction-to-chemistry-general-organic-and-biological/section_23/ba7dd80de068483ccd0dbcc990793969.jpg[]
+Acetyl-CoA:: Acetyl + Coenzyme A, käytetään monissa (aineenvaihdunta)reaktioissa, erityisesti Krebsin syklissä (hiilen siirto asetyylisivuketjussa) image:http://2012books.lardbucket.org/books/introduction-to-chemistry-general-organic-and-biological/section_23/ba7dd80de068483ccd0dbcc990793969.jpg[]
+Aminohappodehydrataasi:: Entsyymi, joka poistaa esimerkiksi seriinista tai threoniinista vesimolekyylin => johtaa imiinin spontaaniin hajoamiseen α-ketohapoksi ja ammoniakiksi
+Glukogeeniset aminohapot:: Aminohapot, jotka menevät sitruunahappokiertoon yhdisteinä, joista on mahdollista tuottaa glukoosia (α-ketoglutaraatti, sukkinyyli-CoA, fumaraatti tai oksaloasetaatti; pyruvaatti)
 Glukoneogeneesi:: Glukoosin valmistaminen ei-hiilihydraattilähteistä (pyryvaatti, laktaatti, glyseroli, glykogeeniset aminohapot; pääasiallisesti rasvahapot joissa pariton määrä hiiliä)
+Glutamaatti:: Glutamiinihaposta muodostunut anioni. Tärkeä neurovälittäjäaine!
+Glutamiini:: Aminohappo, johdannaiset tärkeitä ureakierrossa ja neurovälittäjäaineina (glutamaatti). image:https://upload.wikimedia.org/wikipedia/commons/5/5d/L-Glutamin_-_L-Glutamine.svg[width=160]
+Glutamiinihappo:: image:https://upload.wikimedia.org/wikipedia/commons/f/ff/Glutamins%C3%A4ure_-_Glutamic_acid.svg[width=160]
+Karbamoyylifosfaatti:: Ureasyklin välituote. image:https://upload.wikimedia.org/wikipedia/commons/9/94/Carbamoylphosphat_deprotoniert.svg[width=160]
+Ketogeeniset aminohapot:: Aminohapot, jotka menevät sitruunahappokiertoon yhdisteinä, jotka lisäävät ketoaineiden konsentraatiota (asetyyli-CoA, asetoasetyyli-CoA)
+Kofaktori:: Pieni orgaaninen yhdiste, joka auttaa muodostamaan toimivan entsyymin sitoutumalla entsyymin proteiiniosaan. Usein vitamiini, vitamiinijohdos tai hivenaine.
+Oksidatiivinen deaminaatio:: Aminoryhmän poistaminen hapettamalla, syntyy ammoniakkia ja ketohappo. image:http://osp.mans.edu.eg/medbiochem_mi/Cources/Biochemistry/2nd_year_medicine/Protein_metabolism/files/figures/l2_8.gif[]
 Transaminaatio:: Kemiallinen reaktio, jossa aminoryhmä siirtyy aminohapolta α-ketokarboksyylihapolle, jolloin muodostuu uusi aminohappo ja uusi α-ketokarboksyylihappo image:https://upload.wikimedia.org/wikipedia/commons/0/05/Transaminierung.svg[Transaminaatio]
+Urea:: Pääasiallinen muoto poistaa typpeä elimistöstä, ureasyklin lopputuote image:https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Urea.png/640px-Urea.png[width=160]
+Ureasykli:: Ammoniakin poisto elimistöstä (pääasiassa maksassa, myös munuaisissa). Vain kaksi lähtöaminohappoa: glutamaatti, aspartaatti.
 Välttämättömät aminohapot:: Aminohapot, joiden hiiliketjuja ei osata tuottaa => saatava ravinnosta
 α-ketohappo (α-ketokarboksyylihappo):: Happo, josta voidaan valmistaa aminohappo transaminaatiolla. Ketoryhmä karboksyylihapporyhmän vieressä (vrt. β-ketohappo => ketoryhmä β-hiilessä!)
-Oksidatiivinen deaminaatio:: Aminoryhmän poistaminen hapettamalla, syntyy ammoniakkia ja ketohappo. image:http://osp.mans.edu.eg/medbiochem_mi/Cources/Biochemistry/2nd_year_medicine/Protein_metabolism/files/figures/l2_8.gif[]
-Aminohappodehydrataasi:: Entsyymi, joka poistaa esimerkiksi seriinista tai threoniinista vesimolekyylin => johtaa imiinin spontaaniin hajoamiseen α-ketohapoksi ja ammoniakiksi
-Ureasykli:: Ammoniakin poisto elimistöstä (pääasiassa maksassa, myös munuaisissa). Vain kaksi lähtöaminohappoa: glutamaatti, aspartaatti.
