@@ -41,7 +41,7 @@ Metabotrooppiset reseptorit:: Reseptorit, jotka liittyvät toisiolähettikaskade
 
 Neurotransmission jälkeen välittäjäaineet pitää poistaa synaptisesta tilasta, esimerkiksi diffuusiolla tai hajottamalla (e.g. asetyylikoliiniesteraasi pilkkoo ACh:ta). Välittäjäaineita myös otetaan takaisin presynaptiseen neuroniin (aktiivisesti?).
 
-Välittäjäaineiden toimintaa voidaan muuttaa
+.Välittäjäaineiden toimintaa voidaan muuttaa
 * Synteesinopeutta muuttamalla
 * Muuttamalla synapsiin tapahtuvan vapauttamisen nopeutta
 * Blokkaamalla takaisinotto presynaptiseen neuroniin
