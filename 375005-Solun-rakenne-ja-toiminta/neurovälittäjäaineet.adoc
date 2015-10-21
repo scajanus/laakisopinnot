@@ -51,7 +51,11 @@ Neurotransmission jälkeen välittäjäaineet pitää poistaa synaptisesta tilas
 == Välittäjäaineet ja niiden luokittelu
 
 * Aminohapot
+** Myös monia muita rooleja => rooli välittäjäaineena kuitenkin varmistunut.
 * Glutamaatti
+** Tärkein keskushermoston eksitatorinen välittäjäaine
+** Sekä ionotrooppisia (esim. NMDA) että metabotrooppisia reseptoreita
+** Suuren affiniteetin kuljetus sekä gliasoluihin (joissa muunto glutamiiniksi, diffuusio hermosoluun, jonka mitokondrioissa hajotus glutaminaasilla glutamaatiksi) sekä suoraan hermosoluihin
 * GABA (ionotrooppinen GABA~A~ ja metabotrooppinen GABA~B~)
 * Glysiini
 * Katekoliamiinit (noradrenaliini, adrenaliini, dopamiini)
