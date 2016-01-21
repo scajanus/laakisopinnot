@@ -50,4 +50,25 @@ Neurotransmission jälkeen välittäjäaineet pitää poistaa synaptisesta tilas
 
 == Välittäjäaineet ja niiden luokittelu
 
-WARNING: Work in progress!
+* Aminohapot
+** Myös monia muita rooleja => rooli välittäjäaineena kuitenkin varmistunut.
+* Glutamaatti
+** Tärkein keskushermoston eksitatorinen välittäjäaine
+** Sekä ionotrooppisia (esim. NMDA) että metabotrooppisia reseptoreita
+** Suuren affiniteetin kuljetus sekä gliasoluihin (joissa muunto glutamiiniksi, diffuusio hermosoluun, jonka mitokondrioissa hajotus glutaminaasilla glutamaatiksi) sekä suoraan hermosoluihin
+* GABA (ionotrooppinen GABA~A~ ja metabotrooppinen GABA~B~)
+** Merkittävin inhibitorinen välittäjäaine aivoissa
+** GABA~A~-reseptori koostuu 5 alayksiköstä => paljon kohteita lääkkeille, esim. bentsot, barbituraatit
+* Glysiini
+** Selkäytimen inhibitorinen välittäjäaine. Glysiinireseptorin blokkaus stryktiinillä: hermoimpulssit liikkuvat ilman negatiivista kontrollia => konvulsiot, rigidity
+* Katekoliamiinit (noradrenaliini, adrenaliini, dopamiini)
+** Johdetaan aminohappo tyrosiinista
+** Katekoliamiinia vapauttavissa hermoissa välittäjäainetta vapautuu pitkin aksonia (axonal varicosities) soluvälitilaan, jossa se diffusoituu kunnes kohtaa reseptorin => vaikutus suurelle kudosalueelle eikä tiettyyn neuroniin
+** *TODO* lisää detaljit noradrenaliinista, adrenaliinista, dopamiinista, serotoniinista
+* Asetyylikoliini
+** Hermo-lihasliitoksen välittäjäaine
+** Parasympaattisen hermoston välittäjäaine, sympaattisen hermoston sisäisen viestinnän (?) välittäjäaine
+** Synteesi koliinista (koliiniasetyylitransferaasilla), hajotus synaptisessa raossa (asetyylikoliiniesteraasilla) + lopun takaisinotto
+** Nikotiiniset reseptorit ionotrooppisia, muskariiniset reseptorit metabotrooppisia
+* NO~2~
+* Muut pienet molekyylit

@@ -20,3 +20,5 @@ Ligandi:: Solun ulkoinen aine, joka sitoutuu reseptoriinsa rakenteensa perusteel
 Laktaatti:: Maitohapon anioni eli konjugaattiemäs
 Maitohappo:: L-laktaattia (maitohapon anioni) syntyy anaerobisessa aineenvaihdunnassa pyruvaatista image:https://upload.wikimedia.org/wikipedia/commons/d/d3/Lactic-acid-skeletal.svg[]
 Pyruvaatti:: Glykolyysin lopputuote. Yhdestä glukoosista saadaan kaksi pyruvaattia. image:https://upload.wikimedia.org/wikipedia/commons/3/3f/Pyruvic-acid-2D-skeletal.png[width=160]
+IFG:: Impaired fasting glucose, häiriintynyt paastoglukoosi: Verensokeri pysyy jatkuvasti koholla (osaltaan insuliiniresistenssin takia)
+IGT:: Impaired glucose tolerance, heikentynyt glukoosinsieto. Näkyy glukoosirasitustestissä (2h jälkeen verensokeri edelleen koholla)
