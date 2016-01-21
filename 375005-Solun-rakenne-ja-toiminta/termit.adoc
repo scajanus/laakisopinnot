@@ -17,3 +17,6 @@ Välttämättömät aminohapot:: Aminohapot, joiden hiiliketjuja ei osata tuotta
 α-ketohappo (α-ketokarboksyylihappo):: Happo, josta voidaan valmistaa aminohappo transaminaatiolla. Ketoryhmä karboksyylihapporyhmän vieressä (vrt. β-ketohappo => ketoryhmä β-hiilessä!)
 Glukagoni:: Peptidihormoni, joka vapauttaa maksan glykogeenivarastoista glukoosia vereen. Ei vaikuta munuaisten glukoosin vapautukseen!
 Ligandi:: Solun ulkoinen aine, joka sitoutuu reseptoriinsa rakenteensa perusteella.
+Laktaatti:: Maitohapon anioni eli konjugaattiemäs
+Maitohappo:: L-laktaattia (maitohapon anioni) syntyy anaerobisessa aineenvaihdunnassa pyruvaatista image:https://upload.wikimedia.org/wikipedia/commons/d/d3/Lactic-acid-skeletal.svg[]
+Pyruvaatti:: Glykolyysin lopputuote. Yhdestä glukoosista saadaan kaksi pyruvaattia. image:https://upload.wikimedia.org/wikipedia/commons/3/3f/Pyruvic-acid-2D-skeletal.png[width=160]
